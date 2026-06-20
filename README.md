@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Brunno, a developer passionate about learning new things and new technologies. Currently, I focus on Back-end / Mobile development.
 
-### 🛠 🛠 Technologies and Skills
+### 🛠 Technologies and Skills
 Here are some of the tools and languages ​​I work with:
 - **Languages:** Java, Kotlin, C#, JavaScript, TypeScript
 - **Frameworks & Libraries:** React, Node.js, Bun, Spring Boot, Jetpack Compose, Flutter, KMP, etc.
