@@ -25,5 +25,6 @@ Here are some of the tools and languages ​​I work with:
 - **Tools:** Git, Docker, AWS, Figma, etc.
 
 ### 📬 How to contact me
+- **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/brunno-santos-da-silva-6b8b9635/)
 - **Email:** java.brunno@gmail.com
 
